@@ -1,3 +1,7 @@
+# FFT IP CORE
+
+![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/20f79f02-b3c3-4d45-b5a0-fc7554f816fc)
+
 # FFT CONTROL BLOCK
 The streaming FFT allows continuous processing of input data and
 outputs a continuous complex data stream without the need to halt the data flow
@@ -7,6 +11,7 @@ we create a control_for_fft block.After some clock cycles,the IP core outputs so
 source_eop,source_valid to denote about the result availability to downstream module.
 
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/753c5662-7df1-4ee9-be0f-8aa0fe858b36)
+
 
 # FFT WRAPPER
 We instantiate the FFT IP Core and control_for_fft blocks in a single block
