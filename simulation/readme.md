@@ -40,5 +40,5 @@ Frequency Resolution(Theoretical) = Sampling rate/FFT Size
 = 195312.5Hz
 Frequency Resolution(Practical) From the Frequency plot = 195312 Hz
 
-# POST FITTING RESOURCE USAGE
+# POST-FITTING RESOURCE USAGE
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/a540d80d-1cd2-4db2-810d-e3469b6302fa)
