@@ -2,8 +2,8 @@
 # RTL SCHEMATIC
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/efda7e17-e2e6-475e-a417-7d5857c4924e)
 
-# The SignalTap Logic Analyzer Editor
-allows us to debug the design in real-time and at high-speed while performing an
+# The SignalTap Logic Analyzer 
+It allows us to debug the design in real-time and at high-speed while performing an
 analysis in the Quartus software.Using Signal Tap logic Analyzer, the outputs from the respective data output
 blocks can be captured and analysed.
 The output as viewed from the signal tap analyser is given below\
