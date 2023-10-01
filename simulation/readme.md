@@ -30,6 +30,11 @@ The input sine wave whose Fast Fourier Transform was realized using Quartus is
 approximately reconstructed at the output side using the Inverse Fast Fourier
 Transform.To verify the results,we need to find the resolution(bin size of FFT)from the reconstructed sine wave's frequency domain plot.
 
+# POST FITTING RESOURCE USAGE
+![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/a540d80d-1cd2-4db2-810d-e3469b6302fa)
+
+
+
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/97109e21-5b27-49c5-b1a8-826da390af6d)
 
 Frequency Resolution(Theoretical) = Sampling rate/FFT Size
