@@ -20,25 +20,7 @@ points being displayed (both real and imaginary values).
 
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/3d28373c-1757-4cae-a800-200e82e98270)
 
-The FFT points from the signal tap output (the real and imaginary values) are
-exported and using MATLAB, the IFFT of the output points are found and the
-result is plotted. The Matlab code used for reconstruction is as follows:
 
-![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/f4092f55-9797-450d-9546-30f78bb9e0a8)
-
-The input sine wave whose Fast Fourier Transform was realized using Quartus is
-approximately reconstructed at the output side using the Inverse Fast Fourier
-Transform.To verify the results,we need to find the resolution(bin size of FFT)from the reconstructed sine wave's frequency domain plot.
-
-
-
-
-![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/97109e21-5b27-49c5-b1a8-826da390af6d)
-
-Frequency Resolution(Theoretical) = Sampling rate/FFT Size
-                                  = 200MHz/1024
-= 195312.5Hz
-Frequency Resolution(Practical) From the Frequency plot = 195312 Hz
 
 # POST-FITTING RESOURCE USAGE
 ![image](https://github.com/sivaram-07/FFT-IP/assets/114935240/a540d80d-1cd2-4db2-810d-e3469b6302fa)
